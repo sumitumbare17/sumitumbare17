@@ -1,5 +1,7 @@
 
 
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/sumit-umbare-295341245/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -30,7 +32,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br><br> I'm a passionate Tech Enthusiast and Full-Stack Developer with a strong affinity for both Android and web development. My journey in programming has been driven by a deep love for Android development, particularly in Java, while also exploring the realms of web development with proficiency in Python, React, and Node.js.</h3>
+<h4 align="left">👩‍💻  About Me <br><br> I'm a passionate Tech Enthusiast and Full-Stack Developer with a strong affinity for both Android and web development. My journey in programming has been driven by a deep love for Android development, particularly in Java, while also exploring the realms of web development with proficiency in Python, React, and Node.js.</h4>
 
 ###
 
